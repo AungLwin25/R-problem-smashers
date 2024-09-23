@@ -3,7 +3,7 @@
 
 # Background: plot() can be customized easily if both variables are numeric
  # becoming a challenge
- # -> when we want to plot the categorical variable's values
+ # -> when we want to plot the categorical variable's values.
 
 # Load data
 source("df_CountyN.R")
