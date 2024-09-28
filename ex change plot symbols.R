@@ -46,6 +46,3 @@ symbols(CountyN$State, CountyN$Freq,
 axis(1, at = 1:length(CountyN$State), # axis 1 is X-axis here.
      labels = CountyN$State,
      las = 2, cex.axis = 0.7)
- # Adds x-axis labels of state names
-
-
