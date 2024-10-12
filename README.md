@@ -11,7 +11,8 @@ Welcome to R-Problem-Smashers, a collection of R code solutions designed to tack
 **Repository Structure**
 
 * **`df_` prefix:** Files starting with `df_` contain the source datasets used in the problem-solving examples.
-* **`rs_` prefix:** Files starting with `rs_` contain the R scripts showcasing the solutions to various challenges. 
+* **`.R` suffix:** Files starting with `rs_` contain the R scripts showcasing the solutions to various challenges.
+* **`Problem sets`** are organized by the same index code. Check the file convention for the topics of the showcased functions.
 
 **Explore, Learn, and Contribute!**
 
