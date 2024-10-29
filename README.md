@@ -12,8 +12,8 @@ Welcome to R-Problem-Smashers, a collection of R code solutions designed to tack
 
 * **`.csv` format:** The comma-separated files (csv) contain the source datasets used in the problem-solving examples.
 * **`.R` suffix:** Files ending with `.R` contain the R scripts showcasing the solutions to various challenges.
-* **`Problem sets`** are organized by the same index code. Check the file convention for the topics of the showcased functions.
-* **`File naming convention`** lists the code and data sets while **`Scenario sets`** explains the purpose of code and data of each set.
+* **`Problem sets`** are organized by the same index code. Check the file naming convention document for the topics of the showcased functions.
+* **`Scenario sets`** explains the purpose of code and data by each topic.
 
 **Explore, Learn, and Contribute!**
 
